@@ -1,54 +1,68 @@
-<header>
+# Chatshare
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+#### 介绍
+一个稳定好用的集合镜像站，GPT体验吊打拼车 Plus，甚至官方 Plus！官方 Plus有提问次数限制，周卡、月卡无限制!
+号池内嵌众多官方ChatGPT Plus账号轮换，无需担心降智、封号等风险！
+还附赠Claude3.7模型、Deepseek-R1/V3模型、谷歌Gemini-2.5-Pro模型、Grok-3模型等众多主流模型,
+具有会话隔离功能，即对话相互之间看不到。
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+#### 卡密和续费购买链接
+**卡密和续费购买链接**：https://dwz.cn/kVoaYs6H
 
-</header>
+**不玩套路，长期提供日卡、周卡、月卡，续费灵活！**
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+**周卡 & 月卡体验更佳（无限制提问）**
 
-## Step 1: Enable GitHub Pages
+**剩余时间大于15天即送Claude Pro官方系统、midjourney官方绘画系统体验**
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+#### 镜像站网址
+**请先测试是否访问正常再购买卡密**
 
-### :keyboard: Activity: Enable GitHub Pages
+🔹 **推荐使用 Edge 浏览器**
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+**（不要直接在微信中打开，会被拦截）**
 
-<footer>
+**登录地址： https://chatshare.biz/**
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+**（这个网址可以收藏起来，但不要收藏已经跳转分站之后的网址）**
 
----
+**如果使用过程出现网站打不开或卡顿报错的情况，试试换个站，下面的网站看哪个是可以正常的！**
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+[**https://node1.chatshare.biz**](https://node1.chatshare.biz/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+[**https://node2.chatshare.biz**](https://node2.chatshare.biz/)
 
-</footer>
+[**https://node3.chatshare.biz**](https://node3.chatshare.biz/)
+
+[**https://node5.chatshare.biz**](https://node5.chatshare.biz/)
+
+**不需要科学上网，直接访问即可！**
+
+**（网站访问卡顿或频繁报错，试试换站，改node后面的数字就可）**
+
+#### 新手入门和常见问题自查
+请移步：[**新手使用指南**](https://gitee.com/chatsharebiz/chatshare/blob/master/help.md)                     
+             [**常见问题自查**](https://gitee.com/chatsharebiz/chatshare/blob/master/README.en.md)
+
+### 为什么选我们？
+
+1）使用官网需要翻q，大部分学校/企业发现此类行为会被处以重罚，甚至开除！
+2）使用官网需要20美元一个月，买下来至少160人民币，对于学生群体来说偏贵！
+3）使用官网需要有visa卡，大部分人美元美国visa卡。到淘宝购买虚拟卡，大部分卡不正规，导致频繁封号，钱没了，账号也没了，只能认栽。淘宝店主会说是你自身IP不干净造成，只能吃哑巴亏！
+4）做数学建模/毕业设计这种一定要用GPT/claude这种国外模型，因为你用国产的模型会把你的数据贡献给国内，严重加大查重率和AI率。
+5）deepseek官网经常不稳定，选择我们独家供应的算力更加稳定高效。
+6）与同行相比，我们提供的GPT/gemini/deepseek系列均比官网稳定，算力更充足，有专门的技术维护。相比其他同行每次故障都要好几个小时甚至好几天才恢复，我们基本半个小时内。
+
+![输入图片说明](image/001.png)
+我们站点的优势：
+1）无需翻q即可进入官网，后台账号池全部由我们购买。价格比官网低几倍，且附赠市面主流大模型。
+2）聊天记录是唯一的，并不会被让他人看见，保障隐私。
+3）不用担心封号，即使被封号全部由我们自己承担，不会影响你的使用。
+我们有专业的技术团队，已经稳定运营2年之久。我们的维护成本很大，大家下单的钱都用于账号购买和技术升级，基本没有多少的利润，只为给大家提供一个安全/稳定的GPT服务。如果网站体验好，请帮我们宣传，足够的用户是我们继续做下去的动力。
+
+### 防失联请进微信群
+
+![输入图片说明](image/002.png)
+### 进群，加群主文文，防止失联！有进其他分群的不要重复进！
