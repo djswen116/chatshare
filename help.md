@@ -180,7 +180,7 @@ V：lisuwen116(添加备注来源)
 ### 二、【GPT4O-image模型-调用sora】  
 无需点击创建图像，正常输入要求即可
 
-更多问题请移步：[**常见问题自查**](https://gitee.com/chatsharebiz/chatshare/blob/master/README.en.md)
+更多问题请移步：[**常见问题自查**](/README.en.md)
 
 [点击返回导航](#目录导航)
 
