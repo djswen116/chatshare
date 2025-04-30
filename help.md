@@ -23,7 +23,7 @@ V：lisuwen116(添加备注来源)
 只要订阅剩余时间大于15天即送Claude Max/Pro官网系统、midjourney官网绘画系统体验  
 外面卖我们站基本都是70每个月起步！ **48.8的月卡你们可以闭眼入！随便单拿一个出来都是物超所值！** 
 
-![输入图片说明](image/guan01.png)
+![图片描述](image/guan01.png)
 
 号池内嵌众多官方ChatGPT Plus账号轮换，无需担心降智、封号等风险！
 还附赠Claude3.7模型、Deepseek-R1/V3模型、谷歌Gemini-2.5-Pro模型、Grok-3模型等众多主流模型,
@@ -32,7 +32,7 @@ V：lisuwen116(添加备注来源)
 只要订阅剩余时间大于15天即送Claude Pro官方系统、midjourney官方绘画系统体验
 
 （下面是我们旧版的对比图，先将就看，空了再更新4o版的）
-![输入图片说明](image/guan02.png)
+![图片描述](image/guan02.png)
 
 优点:
 (1)可语音对话、联网、识图、绘画等官网区别功能，可用官网最新模型、GPTS等功能
@@ -83,13 +83,13 @@ V：lisuwen116(添加备注来源)
 前面是账号，后面是密码  
 买完直接用，有对应时长
 
-![输入图片说明](image/hao1.jpg)
+![图片描述](image/hao1.jpg)
 
 ### 3️⃣续费时使用“激活码”
 例如：`30Tegb2dh4fyg5c36da`  
 原账号使用激活码续费即可
 
-![输入图片说明](image/hao2.jpg)
+![图片描述](image/hao2.jpg)
 
 ### 4️⃣购买时填写联系方式
 需填写 6 位及以上的联系方式（可乱填但建议记得）
@@ -120,16 +120,16 @@ V：lisuwen116(添加备注来源)
 
  **手机端：
 （重要：要选新版Plus入口！）** 
-![输入图片说明](image/sj1.jpg)
-![输入图片说明](image/sj2.jpg)
-![输入图片说明](image/sj3.jpg)
+![图片描述](image/sj1.jpg)
+![图片描述](image/sj2.jpg)
+![图片描述](image/sj3.jpg)
 
  **电脑端：
 （重要：要选新版plus入口！）** 
 [点击返回导航](#目录导航)
-![输入图片说明](image/dl1.png)
-![输入图片说明](image/dl2.png)
-![输入图片说明](image/dl3.png)
+![图片描述](image/dl1.png)
+![图片描述](image/dl2.png)
+![图片描述](image/dl3.png)
 
 
 📌 单次仅限登录一个设备，同时登会顶号！  
@@ -142,26 +142,26 @@ V：lisuwen116(添加备注来源)
 ## 到期续费
 ### 1. 购买激活码  
 🔗 卡密和续费购买链接：https://dwz.cn/kVoaYs6H
-![输入图片说明](image/sh.jpg)
+![图片描述](image/sh.jpg)
 
 ### 2. 提取激活码  
 复制激活码或“复制全部”，粘贴保存
 
-![输入图片说明](image/sh1.jpg)
+![图片描述](image/sh1.jpg)
 
 ### 3. 电脑续费步骤  
-![输入图片说明](image/sh2.png)
-![输入图片说明](image/sh3.png)
-![输入图片说明](image/sh4.png)
+![图片描述](image/sh2.png)
+![图片描述](image/sh3.png)
+![图片描述](image/sh4.png)
 
 ### 4. 手机续费步骤  
 找到使用激活码的位置，点击使用即可
 
-![输入图片说明](image/sh5.jpg)
-![输入图片说明](image/sh6.jpg)
-![输入图片说明](image/sh7.jpg)
-![输入图片说明](image/sh8.jpg)
-![输入图片说明](image/sh9.jpg)
+![图片描述](image/sh5.jpg)
+![图片描述](image/sh6.jpg)
+![图片描述](image/sh7.jpg)
+![图片描述](image/sh8.jpg)
+![图片描述](image/sh9.jpg)
 
 [点击返回导航](#目录导航)
 
@@ -196,11 +196,11 @@ V：lisuwen116(添加备注来源)
 ## 好评如潮
 [点击返回导航](#目录导航)
 
-![输入图片说明](image/hp1.jpg)
-![输入图片说明](image/hp2.jpg)
-![输入图片说明](image/hp3.jpg)
-![输入图片说明](image/hp4.jpg)
-![输入图片说明](image/hp5.jpg)
+![图片描述](image/hp1.jpg)
+![图片描述](image/hp2.jpg)
+![图片描述](image/hp3.jpg)
+![图片描述](image/hp4.jpg)
+![图片描述](image/hp5.jpg)
 
  **不管是电脑，苹果，安卓，尽量用edge或谷歌浏览器，尤其不要用什么360，QQ，夸克等浏览器
 遇问题，先关注群公告，文档，网站公告，能解决你们95%以上的问题！** 
