@@ -97,4 +97,4 @@
 
 ---
 
-## [点击这里返回总文档](https://gitee.com/chatsharebiz/chatshare/)
+## [点击这里返回总文档](/README.md)
