@@ -43,8 +43,8 @@
 **（网站访问卡顿或频繁报错，试试换站，改node后面的数字就可）**
 
 #### 新手入门和常见问题自查
-请移步：[**新手使用指南**](https://gitee.com/chatsharebiz/chatshare/blob/master/help.md)                     
-             [**常见问题自查**](https://gitee.com/chatsharebiz/chatshare/blob/master/README.en.md)
+请移步：[**新手使用指南**](/help.md)                     
+             [**常见问题自查**](/README.en.md)
 
 ### 为什么选我们？
 
