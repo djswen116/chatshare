@@ -141,7 +141,7 @@ V：lisuwen116(添加备注来源)
 
 ## 到期续费
 ### 1. 购买激活码  
-🔗 卡密和续费购买链接：https://dwz.cn/kVoaYs6H
+🔗 卡密和续费购买链接：[https://u.dwz.tax/ulpA](https://u.dwz.tax/ulpA)
 ![图片描述](image/sh.jpg)
 
 ### 2. 提取激活码  
