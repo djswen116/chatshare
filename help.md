@@ -72,7 +72,7 @@ V：lisuwen116(添加备注来源)
 ---
 
 ## 购买方式
-卡密和续费购买链接： https://dwz.cn/kVoaYs6H  
+卡密和续费购买链接： [https://u.dwz.tax/ulpA](https://u.dwz.tax/ulpA) 
 （打不开或付款不了，请添加微信lisuwen116代付）
 
 ### 1️⃣【长期使用】建议镜像网注册账号密码
