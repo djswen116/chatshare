@@ -8,7 +8,7 @@
 
 
 #### 卡密和续费购买链接
-**卡密和续费购买链接**：[https://u.dwz.tax/ulpA](https://u.dwz.tax/ulpA)
+**卡密和续费购买链接**：[https://fk.58faka.com//links/30EFC033](https://fk.58faka.com//links/30EFC033)
 
 **不玩套路，长期提供日卡、周卡、月卡，续费灵活！**
 
