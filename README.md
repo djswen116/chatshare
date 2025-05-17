@@ -1,4 +1,4 @@
-https://u.dwz.tax/ulpA# Chatshare
+ Chatshare
 
 #### 介绍
 一个稳定好用的集合镜像站，GPT体验吊打拼车 Plus，甚至官方 Plus！官方 Plus有提问次数限制，周卡、月卡无限制!
