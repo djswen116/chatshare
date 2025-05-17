@@ -1,4 +1,4 @@
-# Chatshare
+https://u.dwz.tax/ulpA# Chatshare
 
 #### 介绍
 一个稳定好用的集合镜像站，GPT体验吊打拼车 Plus，甚至官方 Plus！官方 Plus有提问次数限制，周卡、月卡无限制!
@@ -8,7 +8,7 @@
 
 
 #### 卡密和续费购买链接
-**卡密和续费购买链接**：[https://fk.58faka.com//links/30EFC033](https://fk.58faka.com//links/30EFC033)
+**卡密和续费购买链接**：[https://u.dwz.tax/ulpA](https://u.dwz.tax/ulpA)
 
 **不玩套路，长期提供日卡、周卡、月卡，续费灵活！**
 
