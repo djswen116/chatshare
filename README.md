@@ -3,7 +3,7 @@
 #### 介绍
 一个稳定好用的集合镜像站，GPT体验吊打拼车 Plus，甚至官方 Plus！官方 Plus有提问次数限制，周卡、月卡无限制!
 号池内嵌众多官方ChatGPT Plus账号轮换，无需担心降智、封号等风险！
-还附赠Claude3.7模型、Deepseek-R1/V3模型、谷歌Gemini-2.5-Pro模型、Grok-3模型等众多主流模型,
+还附赠Claude4模型、Deepseek-R1/V3模型、谷歌Gemini-2.5-Pro模型、Grok-3模型等众多主流模型,
 具有会话隔离功能，即对话相互之间看不到。
 
 
